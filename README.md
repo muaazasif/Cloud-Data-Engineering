@@ -2,7 +2,7 @@
 
 Welcome to the **Cloud Data Engineering** repository! 🚀 This repository contains resources, tutorials, and hands-on projects to help you master cloud-based data engineering concepts.
 
-![Cloud Animation](cloud-computing-animation-download-in-lottie-json-gif-static-svg-file-formats--storage-data-upload-uploading-pack-design-development-animations-3017342.gif)
+![Cloud Animation](fetchpik.com-iconscout-tNVyz3oxUw.gif)
 
 ## 📚 About This Repository
 This repository is dedicated to learners starting their journey in **Cloud Data Engineering** from **Saylani Institute**. Here, you'll find structured learning materials covering **Cloud Computing Basics, Big Data Processing, ETL Pipelines, Tools & Technologies (AWS, GCP, Azure, Hadoop, Spark), Data Warehousing & Analytics, and Security & Best Practices**.
