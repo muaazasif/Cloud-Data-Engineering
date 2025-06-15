@@ -1,0 +1,49 @@
+2025-06-15 20:44:35.986846 : Data has been extracted
+2025-06-15 20:44:35.986846 : Data has been extracted
+2025-06-15 20:44:35.986846 : Data has been extracted
+2025-06-15 20:44:35.986846 : Data has been extracted
+2025-06-15 20:44:35.986846 : Data has been extracted
+2025-06-15 20:44:35.986846 : Data has been extracted
+2025-06-15 20:44:35.986846 : Data has been extracted
+2025-06-15 20:44:35.986846 : Data has been extracted
+2025-06-15 20:44:35.986846 : Data has been extracted
+2025-06-15 20:44:35.986846 : Data has been extracted
+2025-06-15 20:54:22.891524 : Extracted: JPMorgan Chase
+2025-06-15 20:54:22.891524 : Extracted: Bank of America
+2025-06-15 20:54:22.891524 : Extracted: Industrial and Commercial Bank of China
+2025-06-15 20:54:22.891524 : Extracted: Agricultural Bank of China
+2025-06-15 20:54:22.891524 : Extracted: HDFC Bank
+2025-06-15 20:54:22.891524 : Extracted: Wells Fargo
+2025-06-15 20:54:22.907147 : Extracted: HSBC Holdings PLC
+2025-06-15 20:54:22.907538 : Extracted: Morgan Stanley
+2025-06-15 20:54:22.907538 : Extracted: China Construction Bank
+2025-06-15 20:54:22.907538 : Extracted: Bank of China
+2025-06-15 20:54:22.913056 : Transformation failed: [Errno 2] No such file or directory: 'Exchange.xlsx'
+2025-06-15 20:54:22.913401 : Saving failed: [Errno 13] Permission denied: 'converted_bank_market_caps.xlsx'
+2025-06-15 20:54:58.238827 : Extracted: JPMorgan Chase
+2025-06-15 20:54:58.238827 : Extracted: Bank of America
+2025-06-15 20:54:58.254453 : Extracted: Industrial and Commercial Bank of China
+2025-06-15 20:54:58.254453 : Extracted: Agricultural Bank of China
+2025-06-15 20:54:58.254453 : Extracted: HDFC Bank
+2025-06-15 20:54:58.254453 : Extracted: Wells Fargo
+2025-06-15 20:54:58.254453 : Extracted: HSBC Holdings PLC
+2025-06-15 20:54:58.254453 : Extracted: Morgan Stanley
+2025-06-15 20:54:58.254453 : Extracted: China Construction Bank
+2025-06-15 20:54:58.254453 : Extracted: Bank of China
+2025-06-15 20:54:58.254453 : Transformation failed: [Errno 2] No such file or directory: 'Exchange.xlsx'
+2025-06-15 20:54:58.293659 : File saved to: converted_bank_market_caps.xlsx
+2025-06-15 20:56:43.497805 : Extracted: JPMorgan Chase
+2025-06-15 20:56:43.497805 : Extracted: Bank of America
+2025-06-15 20:56:43.497805 : Extracted: Industrial and Commercial Bank of China
+2025-06-15 20:56:43.497805 : Extracted: Agricultural Bank of China
+2025-06-15 20:56:43.505804 : Extracted: HDFC Bank
+2025-06-15 20:56:43.505804 : Extracted: Wells Fargo
+2025-06-15 20:56:43.505804 : Extracted: HSBC Holdings PLC
+2025-06-15 20:56:43.505804 : Extracted: Morgan Stanley
+2025-06-15 20:56:43.505804 : Extracted: China Construction Bank
+2025-06-15 20:56:43.505804 : Extracted: Bank of China
+2025-06-15 20:56:43.521805 : Transformed to: Pkr
+2025-06-15 20:56:43.521805 : Transformed to: Eur
+2025-06-15 20:56:43.521805 : Transformed to: Inr
+2025-06-15 20:56:43.521805 : Transformed to: Gbp
+2025-06-15 20:56:43.795262 : File saved to: converted_bank_market_caps.xlsx
